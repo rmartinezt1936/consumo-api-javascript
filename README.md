@@ -15,6 +15,6 @@ Este proyecto muestra cómo realizar una petición a una API pública usando Jav
 2. Verás una lista de usuarios obtenidos desde la API:
    https://jsonplaceholder.typicode.com/users
 
-##Objetivo
+##Objetivo 
 
 Demostrar el uso básico de JavaScript para consumo de APIs, procesamiento de datos JSON y manipulación del DOM.
